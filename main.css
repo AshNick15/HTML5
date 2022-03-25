@@ -1,3 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
 
+header{
+	width: 100%;
+	align-content: center;
+	height: 50%;
+	background-color: darkcyan
+	
+}
+
+.flex-container{
+	
+}
+
+
+
